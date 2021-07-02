@@ -1,3 +1,4 @@
+
 # crypto_tracker
 
 A Flutter application used to show the list of Crypto-currencies, their present values in USD alongwith the percentage change ocurring.
@@ -18,7 +19,10 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![alt text](https://github.com/[me-stone]/[Crypto_track]/blob/[main]/screenshots/Screenshot_2021-07-03-00-58-02-830_com.example.crypto_bits.jpg?raw=true)
-![alt text](https://github.com/[me-stone]/[Crypto_track]/blob/[main]/screenshots/Screenshot_2021-07-03-00-58-02-789_com.example.crypto_bits.jpg?raw=true)
+![Screenshot_2021-07-03-00-58-20-830_com example crypto_bits](https://user-images.githubusercontent.com/46217734/124322634-6d98a200-db9d-11eb-90de-a18614fa4973.jpg)
+
+
+![Screenshot_2021-07-03-00-58-02-789_com example crypto_bits](https://user-images.githubusercontent.com/46217734/124322660-77baa080-db9d-11eb-9553-8028acbdc566.jpg)
+
 
 
