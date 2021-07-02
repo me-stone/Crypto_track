@@ -1,6 +1,7 @@
 # crypto_bits
 
-A new Flutter application.
+A Flutter application used to show the list of Crypto-currencies, their present values in USD alongwith the percentage change ocurring.
+Each refresh in the app generates the latest set of data for the crypto-portfolios. 
 
 ## Getting Started
 
