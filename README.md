@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![alt text](https://github.com/[me-stone]/[Crypto_track]/blob/[main]/Screenshot_2021-07-03-00-58-02-830_com.example.crypto_bits.jpg?raw=true)
-![alt text](https://github.com/[me-stone]/[Crypto_track]/blob/[main]/Screenshot_2021-07-03-00-58-02-789_com.example.crypto_bits.jpg?raw=true)
+![alt text](https://github.com/[me-stone]/[Crypto_track]/blob/[main]/screenshots/Screenshot_2021-07-03-00-58-02-830_com.example.crypto_bits.jpg?raw=true)
+![alt text](https://github.com/[me-stone]/[Crypto_track]/blob/[main]/screenshots/Screenshot_2021-07-03-00-58-02-789_com.example.crypto_bits.jpg?raw=true)
 
 
